@@ -1,6 +1,6 @@
 # CityTrekk
 
-This project has been commissioned by the Francesco De Sanctis high school in Salerno for the "Erasmus+" project.  
+This project has been commissioned by the [Francesco De Sanctis high school](https://www.liceoclassicodesanctis.edu.it/) in Salerno for the "Erasmus+" project.  
 The students created the design under my supervision and i coded the app with the design they drew.  
 The app has been coded using Unity to deploy it on Android and IOS.
 
