@@ -6,9 +6,13 @@ The app has been coded using Unity to deploy it on Android and IOS.
 
 The app has been deployed on the [Play Store](https://play.google.com/store/apps/details?id=com.LiceoDeSanctis.CityTreKK&hl=it&gl=US) for any android device with API level 23 (Android 6.0 'marshmallow') or higher.  
 
-[<img src="logoandrid.png" width="150">  ](https://play.google.com/store/apps/details?id=com.LiceoDeSanctis.CityTreKK&hl=it&gl=US)
+The app has been deployed on the [Apple Store](https://apps.apple.com/us/app/citytrekk/id1594226736?uo=2) for any iOS device with iOS 11.0 or later.
 
-The application is under review to be published in the Apple Store. 
+
+[<img src="logoandrid.png" width="150">  ](https://play.google.com/store/apps/details?id=com.LiceoDeSanctis.CityTreKK&hl=it&gl=US)
+[<img src="logoapple.png" width="130">  ](https://apps.apple.com/us/app/citytrekk/id1594226736?uo=2)
+
+
 # Features
  
 The features present in this application are listed below.  
